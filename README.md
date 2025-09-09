@@ -27,7 +27,7 @@ I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Dev
 🟦 `Python` 🟧 `Java` 🟥 `C#` 🟨 `HTML` 🟩 `CSS` 🟪 `JavaScript` ⬛ `Razor Views` 🟫 `Bootstrap`
 
 ## 🧰 Tools & Technologies
-🗄️ `SQL Server` 🔧 `Git & GitHub` 🖥️ `Visual Studio` 🌐 `Solarwinds`
+🗄️ `SQL Server` 🔧 `Git & GitHub` 🖥️ `Visual Studio` 📝 `Visual Studio Code` 🌐 `Solarwinds`
 
 ## 🧱 Frameworks & Methodologies
 🧩 `ASP.NET Core MVC` ⚙️ `Agile Development`  
