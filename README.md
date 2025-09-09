@@ -61,15 +61,21 @@ I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Dev
 
 ## 📈 GitHub Stats
 <p align="center">
-<a href="https://github.com/MTMolefe">
-<img src="https://github-readme-stats.vercel.app/api?username=MTMolefe&show_icons=true&theme=blue-green" alt="MT Molefe's GitHub Stats">
-</a>
+  <a href="https://github.com/MT-Molefe">
+    <img src="https://github-readme-stats.vercel.app/api?username=MT-Molefe&show_icons=true&theme=transparent" alt="MT Molefe's GitHub Stats">
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/MTMolefe">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMolefe&layout=compact&theme=blue-green" alt="MT Molefe's Top Languages">
-</a>
+  <a href="https://github.com/MT-Molefe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-Molefe&layout=compact&theme=transparent" alt="MT Molefe's Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MT-Molefe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MT-Molefe&theme=transparent" alt="GitHub Streak">
+  </a>
 </p>
 
 
