@@ -59,6 +59,23 @@ I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Dev
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+<a href="https://github.com/MT-Molefe">
+<img src="https://github-readme-stats.vercel.app/api?username=MT-Molefe&show_icons=true&theme=blue-green" alt="MT Molefe's GitHub Stats">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MT-Molefe">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT-Molefe&layout=compact&theme=blue-green" alt="MT Molefe's Top Languages">
+</a>
+</p>
+
+
+---
+
+
 ## 🚀 About Me
 
 I enjoy solving complex problems, collaborating in agile teams, and continuously learning new technologies. My goal is to deliver scalable, secure, and user-centric solutions that drive business value.
