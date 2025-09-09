@@ -1,5 +1,28 @@
 # 👋 Hi, I'm **MT Molefe**
 
+<p align="center">
+  <svg width="100%" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="30" fill="blue">
+      <tspan>
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        Full-stack development
+      </tspan>
+    </text>
+  </svg>
+
+  <svg width="100%" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="30" fill="blue">
+      <tspan>
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        Programmer
+      </tspan>
+    </text>
+  </svg>
+</p>
+
+
 I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Development, NQF Level 4)** and a passion for building robust, user-friendly solutions. I specialize in **cloud technologies**, **business analysis**, and **full-stack development**, with hands-on experience across **Microsoft**, **AWS**, and **IBM** platforms.
 
 ---
