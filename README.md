@@ -1,4 +1,9 @@
 # 👋 Hi, I'm **MT Molefe**
+<p align="center">
+  <a href="https://github.com/MT-Molefe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&vCenter=true&width=490&lines=Programmer;Full-stack+developer" alt="Typing SVG">
+  </a>
+</p>
 
 I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Development, NQF Level 4)** and a passion for building robust, user-friendly solutions. I specialize in **cloud technologies**, **business analysis**, and **full-stack development**, with hands-on experience across **Microsoft**, **AWS**, and **IBM** platforms.
 
@@ -39,8 +44,7 @@ I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Dev
 📌 `GitHub Projects` 🗂️ `Microsoft Planner`
 
 
-**Other Core Competencies**  
-- Business Analysis  
+**Other Core Competencies** - Business Analysis  
 - System Software  
 - User Experience Design  
 - Development Software  
@@ -62,4 +66,3 @@ I enjoy solving complex problems, collaborating in agile teams, and continuously
 ---
 
 > _Feel free to connect or check out my projects below!_
-
