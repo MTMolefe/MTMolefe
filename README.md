@@ -5,7 +5,7 @@
   </a>
 </p>
 
-I'm an enthusiastic IT professional with an **Advanced Diploma in IT (System Development, NQF Level 4)** and a passion for building robust, user-friendly solutions. I specialize in **cloud technologies**, **business analysis**, and **full-stack development**, with hands-on experience across **Microsoft**, **AWS**, and **IBM** platforms.
+I'm an enthusiastic IT professional with an **Advanced Diploma in IT, System Development, NQF Level 4** and a passion for building robust, user-friendly solutions. I specialize in **cloud technologies**, **business analysis**, and **full-stack development**, with hands-on experience across **Microsoft**, **AWS**, and **IBM** platforms.
 
 ---
 
