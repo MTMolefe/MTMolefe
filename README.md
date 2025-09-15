@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **MT Molefe**
 <p align="center">
   <a href="https://github.com/MT-Molefe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&vCenter=true&width=490&lines=Full-stack+developer;APIs;asp+net+MVC;SOLARWINDS;AWS;CCNA;IBM" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&vCenter=true&width=490&lines=Full-stack+developer;APIs;asp.net+MVC;SOLARWINDS;AWS;CCNA;IBM" alt="Typing SVG">
   </a>
 </p>
 
