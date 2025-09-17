@@ -29,25 +29,31 @@ I'm an enthusiastic IT professional with an **Advanced Diploma in IT, System Dev
 ## 🛠️ Skills
 
 ## 🎨 Programming & Development
-🟦 `Python` 🟧 `Java` 🟥 `C#` 🟨 `HTML` 🟩 `CSS` 🟪 `JavaScript` ⬛ `Razor Views` 🟫 `Bootstrap`
+🟦 `Python` 🟧 `Java` 🟥 `C#` 🟨 `HTML` 🟩 `CSS` 🟪 `JavaScript` ⬛ `Razor Views` 🟫 `Bootstrap` 🔷 `TypeScript` 🔶 `Angular` 🟤 `ADO.NET` ⚫ `LINQ`
 
 ## 🧰 Tools & Technologies
-🗄️ `SQL Server` 🔧 `Git & GitHub` 🖥️ `Visual Studio` 📝 `Visual Studio Code` 🌐 `Solarwinds`
+🗄️ `SQL Server` 🔧 `Git & GitHub` 🖥️ `Visual Studio` 📝 `Visual Studio Code` 🌐 `Solarwinds`⚙️`CI/CD Pipelines` 🔄` GitHub Actions` 🧪 `xUnit` 🧰 `Jenkins` 🧵 `Postman` 📦 `NuGet`
 
 ## 🧱 Frameworks & Methodologies
-🧩 `ASP.NET Core MVC` ⚙️ `Agile Development`  
+🧩 `ASP.NET Core MVC` 🧩 `Microservices Architecture` 🧩 `RESTful APIs` ⚙️ `Agile Development`  
   • Code Reviews  
   • Daily Standups  
   • Sprint Planning
+  • Test-Driven Development (TDD)
 
 ## 📋 Project Management Tools
-📌 `GitHub Projects` 🗂️ `Microsoft Planner`
+📌 `GitHub Projects` 🗂️ `Microsoft Planner` 📊 `Azure DevOps Boards`
 
 
-**Other Core Competencies** - Business Analysis  
+**Other Core Competencies**
+- Business Analysis  
 - System Software  
 - User Experience Design  
-- Development Software  
+- Development Software
+- Performance Optimization
+- Data Persistence & Retrieval
+- Troubleshooting & Debugging
+- Unit Testing & QA Collaboration
 
 ---
 
